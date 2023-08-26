@@ -1,0 +1,23 @@
+﻿  Animation.cpp
+C:\Users\win\source\repos\graphics\Animation.cpp(9,38): warning C4244: '=': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\win\source\repos\graphics\Animation.cpp(10,39): warning C4244: '=': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+  main.cpp
+C:\Users\win\source\repos\graphics\main.cpp(22,47): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+  player.cpp
+  Generating code
+  Previous IPDB and IOBJ mismatch, fall back to full compilation.
+  All 81 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  graphics.vcxproj -> C:\Users\win\source\repos\graphics\x64\Release\graphics.exe
