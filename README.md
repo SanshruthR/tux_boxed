@@ -1,7 +1,7 @@
 # Tux Stuck in Windows
 
 [![SFML Version](https://img.shields.io/badge/SFML-2.5.1-brightgreen)](https://www.sfml-dev.org/)
-[![Project Version](https://img.shields.io/badge/Version-v1.0-blue)](https://github.com/yourusername/yourproject)
+[![Project Version](https://img.shields.io/badge/Version-v1.0-blue)](https://github.com/SanshruthR/tux_boxed)
 
 <p align="center">
   <img src="https://github.com/SanshruthR/tux_boxed/assets/98751980/dc87d375-09f5-4994-a2d3-28f517c74403" alt="Tux stuck in windows (Press WASD to move)" />
